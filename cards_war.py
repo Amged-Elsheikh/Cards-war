@@ -1,6 +1,7 @@
-import random
 from collections import deque
 import datetime as dt
+import random
+
 import polars as pl
 
 
